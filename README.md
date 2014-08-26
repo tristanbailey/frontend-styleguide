@@ -176,3 +176,5 @@ Monospace Text wrapped in "pre" tags:
 # Fieldsets, Legends, and Form Elements
 
 This last section contains elements that don't render well in markdown. Please consult the final section in [styleguide.html](https://github.com/bryanbraun/frontend-styleguide/blob/master/styleguide.html), to see the rest of the styleguide.
+
+[ ![Codeship Status for tristanbailey/frontend-styleguide](https://www.codeship.io/projects/5422bcd0-0f22-0132-d7c4-1276fda57f98/status)](https://www.codeship.io/projects/32552)
